@@ -40,14 +40,12 @@ It demonstrates branding setup, AI-driven content creation, and monetization str
 - ✅ Social media content samples.  
 - ✅ Website mockup design.  
 - ✅ Marketing blog post & copy.  
-- ✅ Client outreach email + pitch deck.  
-- ✅ Final branding portfolio.  
+- ✅ Client outreach email + pitch deck. 
 
 ---
 
 ## ⚡ Tools Used
 - [ChatGPT](https://chat.openai.com) – For brand stories, copywriting, and client outreach.  
 - [Canva Magic Media](https://www.canva.com/magic-media/) – For logo, graphics, and mockups.  
-- [GitHub](https://github.com) – For portfolio submission.  
 
----
+
