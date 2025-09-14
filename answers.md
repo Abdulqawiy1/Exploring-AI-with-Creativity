@@ -40,7 +40,6 @@ Branding is no longer just about logos and colors — it’s about **intelligenc
 
 📌 **Canva Deliverables:**  
 - `social-post.png`  
-- `website-mockup.png`  
 
 ---
 
@@ -65,6 +64,6 @@ Best regards,
 [Your Name]  
 NeoBrand AI – *Smart Branding for a Smarter Future*  
 
-📌 **Canva Deliverable:** `client-pitch-deck.pdf`  
+📌 **Canva Deliverable:** `client-pitch-deck.png`  
 
 
