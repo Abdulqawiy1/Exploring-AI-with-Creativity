@@ -67,11 +67,4 @@ NeoBrand AI – *Smart Branding for a Smarter Future*
 
 📌 **Canva Deliverable:** `client-pitch-deck.pdf`  
 
----
 
-## 📌 Final Portfolio  
-
-- `branding-portfolio.pdf` *(combined ChatGPT + Canva outputs)*  
-- `summary.md` *(overview of achievements)*  
-
----
